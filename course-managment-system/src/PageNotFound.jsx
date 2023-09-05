@@ -1,9 +1,8 @@
-import React from 'react'
 
 function PageNotFound() {
   return (
     <div>
-      Oh no!. That's weird, Page not found
+      Oh no!. That is weird, Page not found
     </div>
   )
 }
